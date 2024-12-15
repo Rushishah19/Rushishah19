@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushi Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushishah19&label=Profile%20views&color=0e75b6&style=flat" alt="rushishah19" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushishah19" alt="rushishah19" /></a> </p>
-
 - 🔭 I’m currently working on **Multiple Disease Prediction**
 
 - 🌱 I’m currently learning **Deep Learning , NLP GEN AI**
