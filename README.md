@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rushi Shah</h1>
 
 
-- 🔭 I’m currently working on **Multiple Disease Prediction**
+- 🔭 I’m currently working on **Eyes Aging Model**
 
-- 🌱 I’m currently learning **Deep Learning , NLP GEN AI**
+- 🌱 I’m currently learning **Deep Learning , NLP GEN AI, CNN**
 
 - 📫 How to reach me **rushis1902@gmail.com**
 
