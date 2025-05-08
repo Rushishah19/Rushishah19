@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Eyes Aging Model**
 
-- 🌱 I’m currently learning **Deep Learning , NLP GEN AI, CNN**
+- 🌱 I’m currently learning **Deep Learning , NLP GEN AI, VGG-16, CNN**
 
 - 📫 How to reach me **rushis1902@gmail.com**
 
